@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/gradient_background">
+
+    <ImageView
+        android:id="@+id/appLogo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="32dp"/>
+
+    <EditText
+        style="@style/RoundedEditText"
+        android:id="@+id/editTextEmail"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/white"
+        android:layout_below="@id/appLogo"
+        android:layout_marginTop="16dp"/>
+
+    <EditText
+        style="@style/RoundedEditText"
+        android:id="@+id/editTextPassword"
+        android:textColor="@color/white"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:layout_below="@id/editTextEmail"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        style="@style/RoundedButton"
+        android:id="@+id/buttonLogin"
+        android:onClick="onLoginButtonClick"
+        android:text="Login"
+        android:layout_width="match_parent"
+        android:layout_below="@id/editTextPassword"
+        android:layout_marginTop="24dp"/>
+
+    <TextView
+        android:id="@+id/textViewRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Don't have an account? Register here"
+        android:textColor="@color/colorText"
+        android:onClick="onRegisterTextClick"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/buttonLogin"
+        android:layout_marginTop="16dp"/>
+
+</RelativeLayout>

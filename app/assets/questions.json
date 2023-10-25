@@ -1,0 +1,76 @@
+{
+  "subjects": {
+    "english": [
+      {"question": "What is the main theme of Shakespeare's play 'Romeo and Juliet'?", "answer": "The power of love and its transformative effect on individuals."},
+      {"question": "In George Orwell's 'Animal Farm', what does the character Napoleon represent?", "answer": "Joseph Stalin and the corrupting influence of power."},
+      {"question": "Who is the author of the novel 'To Kill a Mockingbird'?", "answer": "Harper Lee."},
+      {"question": "What does the term 'stream of consciousness' mean in literature?", "answer": "A narrative technique that presents the thoughts and feelings of a character as they occur."},
+      {"question": "What is the significance of the green light in F. Scott Fitzgerald's 'The Great Gatsby'?", "answer": "It symbolizes Gatsby's hopes and dreams."},
+      {"question": "Who wrote the poem 'The Road Not Taken'?", "answer": "Robert Frost."},
+      {"question": "What is the central conflict in Arthur Miller's play 'The Crucible'?", "answer": "The struggle between individual conscience and societal pressure."},
+      {"question": "What is the literary term for a play on words, often for comedic effect?", "answer": "Pun."},
+      {"question": "Which author is known for the series of fantasy novels titled 'A Song of Ice and Fire'?", "answer": "George R.R. Martin."},
+      {"question": "What is the meaning of the literary term 'foil'?", "answer": "A character who contrasts with another character to highlight particular qualities of the other character."}
+    ],
+    "mathematics": [
+      {"question": "Solve the quadratic equation: x^2 - 5x + 6 = 0", "answer": "Solutions: x = 2 or x = 3."},
+      {"question": "Find the derivative of the function f(x) = 3x^2 + 2x - 5.", "answer": "Derivative: f'(x) = 6x + 2."},
+      {"question": "What is the value of lim_(x -> 3) (2x^2 - 5x + 1)?", "answer": "The limit is 10."},
+      {"question": "Calculate the area of a circle with radius r = 4 units.", "answer": "Area: A = 16π square units."},
+      {"question": "Find the integral of the function f(x) = 2x^3 - 6x^2 + 4x + 7.", "answer": "Integral: F(x) = (1/2)x^4 - 2x^3 + 2x^2 + 7x + C."},
+      {"question": "If a + b = 10 and ab = 24, what are the values of a and b?", "answer": "The solutions are a = 6 and b = 4."},
+      {"question": "What is the Pythagorean Theorem?", "answer": "In a right triangle, the square of the length of the hypotenuse (c) is equal to the sum of the squares of the other two sides (a and b): c^2 = a^2 + b^2."},
+      {"question": "If f(x) = 2x^2 + 3x - 5, find f(-2).", "answer": "The value of f(-2) is -3."},
+      {"question": "Solve the system of equations: 2x + 3y = 8 and 3x - 2y = 4.", "answer": "Solutions: x = 2 and y = 1."},
+      {"question": "Calculate the determinant of the matrix: |2 1|\\n|-3 4|", "answer": "The determinant is 10."}
+    ],
+    "science": [
+      {"question": "What is the atomic number of carbon?", "answer": "The atomic number of carbon is 6."},
+      {"question": "What is the chemical symbol for gold?", "answer": "The chemical symbol for gold is Au."},
+      {"question": "What is the process by which plants make their own food using sunlight?", "answer": "Photosynthesis."},
+      {"question": "Who is credited with the discovery of penicillin?", "answer": "Alexander Fleming."},
+      {"question": "What is the largest organ in the human body?", "answer": "The skin."},
+      {"question": "What is the speed of light in a vacuum?", "answer": "Approximately 299,792,458 meters per second."},
+      {"question": "What is the chemical formula for water?", "answer": "H₂O."},
+      {"question": "What gas do plants absorb from the atmosphere and use during photosynthesis?", "answer": "Carbon dioxide (CO₂)."},
+      {"question": "What is the Earth's outermost layer called?", "answer": "The crust."},
+      {"question": "What is the chemical symbol for iron?", "answer": "Fe."}
+    ],
+    "social_science": [
+      {"question": "What is the capital city of France?", "answer": "Paris."},
+      {"question": "Which river is the longest in the world?", "answer": "The Nile River."},
+      {"question": "Who was the first President of the United States?", "answer": "George Washington."},
+      {"question": "What is the political system in which power is vested in the people and exercised by elected representatives?", "answer": "Democracy."},
+      {"question": "In which year did Christopher Columbus first voyage to the Americas?", "answer": "1492."},
+      {"question": "What is the tallest mountain in the world?", "answer": "Mount Everest."},
+      {"question": "Which planet is known as the 'Red Planet'?", "answer": "Mars."},
+      {"question": "Who is considered the 'Father of Modern Physics'?", "answer": "Albert Einstein."},
+      {"question": "What is the largest mammal in the world?", "answer": "The blue whale."},
+      {"question": "In which year did World War I begin?", "answer": "1914."}
+    ],
+    "general_knowledge": [
+      {"question": "What is the currency of Japan?", "answer": "Japanese Yen."},
+      {"question": "Which planet is known as the 'Morning Star' or 'Evening Star'?", "answer": "Venus."},
+      {"question": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci."},
+      {"question": "What is the national flower of India?", "answer": "Lotus."},
+      {"question": "Which gas do plants absorb from the atmosphere and release oxygen during photosynthesis?", "answer": "Carbon dioxide (CO₂)."},
+      {"question": "Who is the author of the novel '1984'?", "answer": "George Orwell."},
+      {"question": "What is the largest ocean on Earth?", "answer": "Pacific Ocean."},
+      {"question": "Who painted the ceiling of the Sistine Chapel?", "answer": "Michelangelo."},
+      {"question": "What is the chemical symbol for gold?", "answer": "Au."},
+      {"question": "In which year did the Titanic sink?", "answer": "1912."}
+    ],
+    "computer_science": [
+      {"question": "What does CPU stand for in computing?", "answer": "Central Processing Unit."},
+      {"question": "Which programming language is known as the 'mother of all languages'?", "answer": "Assembly Language."},
+      {"question": "What is the primary purpose of an operating system?", "answer": "To manage hardware and provide services for computer programs."},
+      {"question": "What does HTML stand for in web development?", "answer": "Hypertext Markup Language."},
+      {"question": "Which company developed the first graphical user interface (GUI) for personal computers?", "answer": "Apple Inc."},
+      {"question": "What is the function of RAM in a computer?", "answer": "To provide quick access to data that the computer is currently using or processing."},
+      {"question": "Which programming language is commonly used for developing Android apps?", "answer": "Java."},
+      {"question": "What does the acronym 'URL' stand for in web addresses?", "answer": "Uniform Resource Locator."},
+      {"question": "What is the largest social media platform in terms of monthly active users?", "answer": "Facebook."},
+      {"question": "Who is often referred to as the 'father of the computer'?", "answer": "Charles Babbage."}
+    ]
+  }
+}
